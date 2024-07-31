@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...python and c#
 - 💞️ I’m looking to collaborate on ... any backend project
 - 📫 How to reach me ... salammatthew7@gmail.com
-- 😄 Pronouns: ...Him
+- 😄 Pronouns: ...He/His/Him
 - ⚡ Fun fact: ...
 
 <!---
