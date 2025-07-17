@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MatthewSalam
-- 👀 I’m interested in ...becoming a backend developer and learning new stacks
-- 🌱 I’m currently learning ...python and c#
-- 💞️ I’m looking to collaborate on ... any backend project
-- 📫 How to reach me ... salammatthew7@gmail.com
+- 👀 I’m interested in ...becoming a fullstack developer (mainly backend) and learning new stacks
+- 🌱 I’m currently learning ...Python Frameworks and React
+- 💞️ I’m looking to collaborate on ... any fullStack project
+- 📫 How to reach me ... salammatthew7@gmail.com, +2348167519762
 - 😄 Pronouns: ...He/His/Him
 - ⚡ Fun fact: ...
 
